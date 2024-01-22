@@ -6,7 +6,7 @@ const MainContainer = ({ children, keywords }) => {
     <>
       <Head>
         <meta keywords={`Learn Next.js ${keywords}`}></meta>
-        <title>Learn next.js project</title>
+        <title>Time for adventure</title>
       </Head>
       <Header />
       <div className="relative px-6 pt-4 lg:px-8">
